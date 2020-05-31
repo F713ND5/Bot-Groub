@@ -150,7 +150,7 @@ class Main:
                 print('      --> Berhasil terkirim ke grub: '+name_group)
         except KeyboardInterrupt:
             pass
-        print()
+            exit()
         
     #Menampilkan daftar group
     def listGroup(self):
