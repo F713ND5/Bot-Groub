@@ -10,7 +10,7 @@ mencantumkan sumber nya (github saya).
 Untuk yang suka recode karya orang, ingat!!! Recode tidak akan menjadikan kalian 
 hebat.
 
-Tolong hargai script orang meskipuk kalian menganggap ini hanya script sampah
+Tolong hargai script orang meskipun kalian menganggap itu hanya script sampah
 
 semoga bermanfaat...
 
